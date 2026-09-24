@@ -1,0 +1,9 @@
+{
+  "name": "AgroFlow SaaS - ERP Concessionária",
+  "description": "Sistema completo de gestão para concessionárias agrícolas com foco em mobilidade, fiscal brasileiro (NF-e/NFS-e), integrações ERP e inteligência artificial para manutenção preditiva.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
